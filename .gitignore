@@ -1,0 +1,13 @@
+# Ignore Bundler vendor dir and local gems
+vendor/bundle/
+.bundle/
+
+# Jekyll build and cache
+_site/
+.jekyll-cache/
+
+# OS and editor files
+.DS_Store
+*.swp
+*.swo
+/.vscode/
